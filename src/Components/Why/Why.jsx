@@ -37,7 +37,7 @@ const cards = [
           {cards.map((card, index) => (
             <div
               key={index}
-              className="w-full max-w-[90%] bg-white shadow-md shadow-gray-400 rounded-lg p-6 flex flex-col items-center text-center"
+              className="w-full max-w-[95%] bg-white shadow-md shadow-gray-400 rounded-lg p-6 flex flex-col items-center text-center"
             >
               {/* Image */}
               <div className="border-[5px] animate-upDown border-[#00204A] rounded-full w-fit p-5 mb-4">

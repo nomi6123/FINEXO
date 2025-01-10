@@ -23,7 +23,7 @@ const cards = [
 
 const Services = () => {
   return (
-    <div id="services" className="w-full mb-1 min-h-screen flex flex-col justify-center items-center bg-gray-100">
+    <div id="services" className="w-full mb-1 min-h-screen flex flex-col justify-center items-center">
       <div className="w-full max-w-[1300px] mx-auto">
         {/* Heading */}
         <div className="p-4 text-center">
